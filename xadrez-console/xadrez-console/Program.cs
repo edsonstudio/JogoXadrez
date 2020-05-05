@@ -11,7 +11,7 @@ namespace xadrez_console
 
             P = new Posicao(3, 4);
 
-            Console.WriteLine("Posição atual: " + P);
+            Console.WriteLine("Posição atual da peça: " + P);
             Console.ReadKey();
         }
     }
